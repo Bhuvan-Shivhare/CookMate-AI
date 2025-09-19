@@ -7,4 +7,4 @@ In this Project, we'll walk you through creating a complete Flutter app from sta
 ## Screenshot
 
 <div align=center> <img src='asset/image5.png' width='300'> <img src='asset/image2.png' width='300'> <img src='asset/image3.png' width='300'> <img src='asset/image4.png' width='300'> <img src='asset/image1.png' width='300'> <img src='asset/image6.png' width='300'>
-</div>
+</div># CookMate-AI
