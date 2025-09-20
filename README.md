@@ -4,16 +4,7 @@ In this project, we’ll walk you through creating a complete Flutter app from s
 This Flutter crash course is perfect for developers looking to understand how to build a Flutter app with a backend, while also managing state and data flow seamlessly. Whether you’re a beginner or an experienced developer, this project will guide you step by step through the process of building your own app.
 
 ## Technologies Used
-
-Flutter – For building cross-platform mobile UI
-Dart – Programming language for Flutter
-Firebase Firestore – For real-time database & recipe storage
-Firebase Storage – For storing recipe images
-Provider – For state management
-Git & GitHub – For version control and collaboration
-VS Code / Android Studio – Development environment
-REST APIs (if integrated) – For fetching recipe/nutrition data
-Material Design Components – For UI/UX styling
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="60" height="60"/> </p>
 
 
 ## Upcoming Features 
